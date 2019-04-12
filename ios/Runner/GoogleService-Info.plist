@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>966690476974-6hjmnd6mc46cf3tjvndlsajsej8m3ro5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.966690476974-6hjmnd6mc46cf3tjvndlsajsej8m3ro5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeY52JSEp_G-6EwUPfVkadyMpCYpaf0l4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>966690476974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.LomoSnaps.LomoSnaps</string>
+	<key>PROJECT_ID</key>
+	<string>lomo-snaps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lomo-snaps.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:966690476974:ios:5a2b12dc370ba731</string>
+	<key>DATABASE_URL</key>
+	<string>https://lomo-snaps.firebaseio.com</string>
+</dict>
+</plist>

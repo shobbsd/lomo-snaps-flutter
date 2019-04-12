@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "966690476974",
+    "firebase_url": "https://lomo-snaps.firebaseio.com",
+    "project_id": "lomo-snaps",
+    "storage_bucket": "lomo-snaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966690476974:android:5a2b12dc370ba731",
+        "android_client_info": {
+          "package_name": "com.LomoSnaps.LomoSnaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpqa9-M6knfvP9IdbzP7Zzlte3plnvn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966690476974-vp8shnadupf3ifdcf7sra0043m73eete.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966690476974-6hjmnd6mc46cf3tjvndlsajsej8m3ro5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LomoSnaps.LomoSnaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
